@@ -9,3 +9,7 @@ typechain-types
 cache
 artifacts
 
+# Build
+*.tar.gz
+
+
